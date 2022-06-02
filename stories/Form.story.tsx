@@ -18,6 +18,9 @@ import {
   DatePicker,
   ConfigProvider,
   Grid,
+  FormInstance,
+  FormProps,
+  ConfigProviderProps,
 } from '@self';
 
 const FormItem = Form.Item;
@@ -79,18 +82,14 @@ const noLabelLayout = {
 };
 
 function Demo1() {
-  const formRef = useRef();
-  const [size, setSize] = useState('default');
-  const [layout, setLayout] = useState('horizontal');
-  const [position, setPosition] = useState('start');
+  const formRef = useRef(null as any as FormInstance);
+  const [size, setSize] = useState<ConfigProviderProps['size']>('default');
+  const [layout, setLayout] = useState<FormProps['layout']>('horizontal');
+  const [position, setPosition] = useState<'start' | 'end'>('start');
 
   useEffect(() => {
     formRef.current.setFieldsValue({ rate: 5 });
   }, []);
-
-  const onValuesChange = (changeValue, values) => {
-    console.log('onValuesChange: ', changeValue, values);
-  };
 
   return (
     <div>
@@ -153,7 +152,9 @@ function Demo1() {
               },
             ],
           }}
-          onValuesChange={onValuesChange}
+          onValuesChange={(changeValue, values) => {
+            console.log('onValuesChange: ', changeValue, values);
+          }}
           scrollToFirstError
         >
           <FormItem label="姓名" field="name" rules={[{ required: true, message: '必须填写姓名' }]}>
@@ -313,9 +314,7 @@ function Demo1() {
             ]}
           >
             <Radio.Group name="zhoujielun">
-              <Radio value="a" size="small">
-                A
-              </Radio>
+              <Radio value="a">A</Radio>
               <Radio value="b">B</Radio>
               <Radio disabled value="c">
                 C

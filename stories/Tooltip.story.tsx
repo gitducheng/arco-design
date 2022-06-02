@@ -1,13 +1,18 @@
 import React, { Component } from 'react';
 import { Tooltip, Button } from '@self';
+import { TooltipHandle } from '@self/Tooltip';
 
 class DemoTooltip extends Component {
-  constructor(props) {
-    super(props);
+  ref: TooltipHandle | null = null;
 
-    this.state = {
-      left: 0,
-    };
+  state: {
+    left: number;
+  } = {
+    left: 0,
+  };
+
+  constructor(props: {}) {
+    super(props);
   }
 
   componentDidMount() {
@@ -21,7 +26,7 @@ class DemoTooltip extends Component {
           left: i++ * 2,
         },
         () => {
-          this.ref.updatePopupPosition();
+          this.ref?.updatePopupPosition();
         }
       );
     }, 10);
