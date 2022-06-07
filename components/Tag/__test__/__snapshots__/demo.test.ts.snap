@@ -421,7 +421,16 @@ exports[`renders Tag/demo/close.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      Toggle
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Toggle
+      </span>
     </span>
   </div>
 </div>

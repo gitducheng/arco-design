@@ -1015,7 +1015,16 @@ exports[`renders Slider/demo/interval.md correctly 1`] = `
       class="arco-typography"
     >
       <b>
-        分段区间-滑动输入条
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          分段区间-滑动输入条
+        </span>
       </b>
     </span>
     <div
@@ -1133,7 +1142,16 @@ exports[`renders Slider/demo/interval.md correctly 1`] = `
     class="arco-typography"
   >
     <b>
-      未分段-滑动输入条
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        未分段-滑动输入条
+      </span>
     </b>
   </span>
   <div
@@ -1511,7 +1529,16 @@ exports[`renders Slider/demo/reversed.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      Reversed
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Reversed
+      </span>
     </span>
   </div>
   <div
@@ -1906,7 +1933,16 @@ exports[`renders Slider/demo/step.md correctly 1`] = `
       class="arco-typography"
       style="margin-right:8px"
     >
-      step
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        step
+      </span>
     </span>
     <div
       class="arco-input-group-wrapper arco-input-group-wrapper-default arco-input-has-suffix arco-input-number arco-input-number-mode-embed arco-input-number-size-default"
@@ -1975,7 +2011,16 @@ exports[`renders Slider/demo/step.md correctly 1`] = `
       class="arco-typography"
       style="margin-right:8px"
     >
-      showTicks
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        showTicks
+      </span>
     </span>
     <button
       aria-checked="true"
@@ -1992,7 +2037,16 @@ exports[`renders Slider/demo/step.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      0
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        0
+      </span>
     </span>
     <div
       class="arco-slider"
@@ -2065,7 +2119,16 @@ exports[`renders Slider/demo/step.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      10
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        10
+      </span>
     </span>
   </div>
 </div>

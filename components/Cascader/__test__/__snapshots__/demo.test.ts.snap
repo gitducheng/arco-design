@@ -449,7 +449,16 @@ exports[`renders Cascader/demo/custom_children.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    City
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      City
+    </span>
   </span>
   <span
     class="arco-link"

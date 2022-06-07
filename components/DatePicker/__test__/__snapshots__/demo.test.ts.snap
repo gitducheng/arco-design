@@ -4300,7 +4300,16 @@ exports[`renders DatePicker/demo/timezone.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Locale String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Locale String:
+                    </span>
                   </b>
                 </span>
                 2/22/2022, 8:00:00 AM
@@ -4315,7 +4324,16 @@ exports[`renders DatePicker/demo/timezone.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    ISO String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      ISO String:
+                    </span>
                   </b>
                 </span>
                 2022-02-22T00:00:00.000Z
@@ -4329,7 +4347,16 @@ exports[`renders DatePicker/demo/timezone.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Timestamp:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Timestamp:
+                    </span>
                   </b>
                 </span>
                 1645488000000
@@ -4375,7 +4402,16 @@ exports[`renders DatePicker/demo/timezone.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Locale String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Locale String:
+                    </span>
                   </b>
                 </span>
                 2/22/2022, 8:00:00 AM --- 3/22/2022, 10:00:00 AM
@@ -4390,7 +4426,16 @@ exports[`renders DatePicker/demo/timezone.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    ISO String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      ISO String:
+                    </span>
                   </b>
                 </span>
                 2022-02-22T00:00:00.000Z --- 2022-03-22T02:00:00.000Z
@@ -4404,7 +4449,16 @@ exports[`renders DatePicker/demo/timezone.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Timestamp:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Timestamp:
+                    </span>
                   </b>
                 </span>
                 1645488000000 --- 1647914400000
@@ -4691,7 +4745,16 @@ exports[`renders DatePicker/demo/utcOffset.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Locale String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Locale String:
+                    </span>
                   </b>
                 </span>
                 2/22/2022, 8:00:00 AM
@@ -4706,7 +4769,16 @@ exports[`renders DatePicker/demo/utcOffset.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    ISO String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      ISO String:
+                    </span>
                   </b>
                 </span>
                 2022-02-22T00:00:00.000Z
@@ -4720,7 +4792,16 @@ exports[`renders DatePicker/demo/utcOffset.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Timestamp:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Timestamp:
+                    </span>
                   </b>
                 </span>
                 1645488000000
@@ -4766,7 +4847,16 @@ exports[`renders DatePicker/demo/utcOffset.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Locale String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Locale String:
+                    </span>
                   </b>
                 </span>
                 2/22/2022, 8:00:00 AM --- 3/22/2022, 10:00:00 AM
@@ -4781,7 +4871,16 @@ exports[`renders DatePicker/demo/utcOffset.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    ISO String:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      ISO String:
+                    </span>
                   </b>
                 </span>
                 2022-02-22T00:00:00.000Z --- 2022-03-22T02:00:00.000Z
@@ -4795,7 +4894,16 @@ exports[`renders DatePicker/demo/utcOffset.md correctly 1`] = `
                   class="arco-typography"
                 >
                   <b>
-                    Timestamp:
+                    <span
+                      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                    >
+                      hxj
+                    </span>
+                    <span
+                      style="width:0"
+                    >
+                      Timestamp:
+                    </span>
                   </b>
                 </span>
                 1645488000000 --- 1647914400000

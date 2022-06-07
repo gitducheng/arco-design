@@ -9,7 +9,16 @@ exports[`renders Trigger/demo/alignPoint.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      Trigger
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Trigger
+      </span>
     </span>
     <div
       aria-autocomplete="list"
@@ -107,7 +116,16 @@ exports[`renders Trigger/demo/alignPoint.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      Click
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Click
+      </span>
     </span>
   </div>
 </div>
@@ -167,7 +185,16 @@ exports[`renders Trigger/demo/basic.md correctly 1`] = `
     class="arco-typography"
     style="margin-right:20px"
   >
-    Hover me
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Hover me
+    </span>
   </span>
   <button
     class="arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square"
@@ -225,7 +252,16 @@ exports[`renders Trigger/demo/mouse.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    Click
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Click
+    </span>
   </span>
 </div>
 `;

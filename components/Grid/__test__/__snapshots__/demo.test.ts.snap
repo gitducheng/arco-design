@@ -288,7 +288,16 @@ exports[`renders Grid/demo/flex-align.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      垂直顶部对齐
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        垂直顶部对齐
+      </span>
     </span>
   </p>
   <div
@@ -334,7 +343,16 @@ exports[`renders Grid/demo/flex-align.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      垂直居中对齐
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        垂直居中对齐
+      </span>
     </span>
   </p>
   <div
@@ -380,7 +398,16 @@ exports[`renders Grid/demo/flex-align.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      垂直底部对齐
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        垂直底部对齐
+      </span>
     </span>
   </p>
   <div
@@ -433,7 +460,16 @@ exports[`renders Grid/demo/flex-justify.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      容器左排列
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        容器左排列
+      </span>
     </span>
   </p>
   <div
@@ -475,7 +511,16 @@ exports[`renders Grid/demo/flex-justify.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      容器居中排列
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        容器居中排列
+      </span>
     </span>
   </p>
   <div
@@ -517,7 +562,16 @@ exports[`renders Grid/demo/flex-justify.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      容器右排列
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        容器右排列
+      </span>
     </span>
   </p>
   <div
@@ -559,7 +613,16 @@ exports[`renders Grid/demo/flex-justify.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      容器分散排列
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        容器分散排列
+      </span>
     </span>
   </p>
   <div
@@ -601,7 +664,16 @@ exports[`renders Grid/demo/flex-justify.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      容器等距排列
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        容器等距排列
+      </span>
     </span>
   </p>
   <div

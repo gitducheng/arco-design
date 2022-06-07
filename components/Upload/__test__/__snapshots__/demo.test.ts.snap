@@ -360,7 +360,16 @@ exports[`renders Upload/demo/icon.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    Type:
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Type:
+    </span>
   </span>
     
   <div

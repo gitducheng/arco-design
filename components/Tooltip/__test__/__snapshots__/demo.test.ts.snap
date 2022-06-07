@@ -6,12 +6,30 @@ exports[`renders Tooltip/demo/basic.md correctly 1`] = `
     class="arco-typography"
     style="margin-right:20px"
   >
-    Mouse over to display tooltip
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Mouse over to display tooltip
+    </span>
   </span>
   <span
     class="arco-typography"
   >
-    Mouse over to display multiple lines tooltip
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Mouse over to display multiple lines tooltip
+    </span>
   </span>
 </div>
 `;
@@ -54,7 +72,16 @@ exports[`renders Tooltip/demo/control.md correctly 1`] = `
     class="arco-typography"
     style="margin-right:10px"
   >
-    Show Tooltip
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Show Tooltip
+    </span>
   </span>
   <button
     aria-checked="false"
@@ -83,7 +110,16 @@ exports[`renders Tooltip/demo/mini.md correctly 1`] = `
 <span
   class="arco-typography"
 >
-  Mouse over to display tooltip
+  <span
+    style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+  >
+    hxj
+  </span>
+  <span
+    style="width:0"
+  >
+    Mouse over to display tooltip
+  </span>
 </span>
 `;
 

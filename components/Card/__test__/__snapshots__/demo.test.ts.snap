@@ -623,7 +623,16 @@ Array [
           <span
             class="arco-typography"
           >
-            Username
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              Username
+            </span>
           </span>
         </span>
         <span
@@ -660,7 +669,16 @@ Array [
           <span
             class="arco-typography"
           >
-            Username
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              Username
+            </span>
           </span>
         </span>
         <span
@@ -747,7 +765,16 @@ exports[`renders Card/demo/with-actions.md correctly 1`] = `
             <span
               class="arco-typography"
             >
-              Username
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                Username
+              </span>
             </span>
           </div>
         </div>

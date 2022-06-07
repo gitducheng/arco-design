@@ -371,7 +371,16 @@ exports[`renders Checkbox/demo/custom_render.md correctly 1`] = `
             <span
               class="arco-typography arco-typography-secondary"
             >
-              this is a text
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                this is a text
+              </span>
             </span>
           </div>
         </div>
@@ -411,7 +420,16 @@ exports[`renders Checkbox/demo/custom_render.md correctly 1`] = `
             <span
               class="arco-typography arco-typography-secondary"
             >
-              this is a text
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                this is a text
+              </span>
             </span>
           </div>
         </div>
@@ -1064,7 +1082,16 @@ exports[`renders Checkbox/demo/useCheckbox.md correctly 1`] = `
     class="arco-typography"
     style="margin:20px 0"
   >
-    Checkbox group
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Checkbox group
+    </span>
   </div>
   <div>
     <div
@@ -1341,7 +1368,16 @@ exports[`renders Checkbox/demo/useCheckbox.md correctly 1`] = `
     class="arco-typography"
     style="margin:20px 0"
   >
-    Checkbox
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Checkbox
+    </span>
   </div>
   <div>
     <div
@@ -1619,7 +1655,16 @@ exports[`renders Checkbox/demo/useCheckbox.md correctly 1`] = `
   <div
     class="arco-typography"
   >
-    Checkbox group with disabled items
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Checkbox group with disabled items
+    </span>
   </div>
   <div>
     <div

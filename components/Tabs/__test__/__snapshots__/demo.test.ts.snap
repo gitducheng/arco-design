@@ -88,7 +88,16 @@ exports[`renders Tabs/demo/basic.md correctly 1`] = `
             class="arco-typography"
             style="text-align:center;margin-top:20px"
           >
-            Content of Tab Panel 1
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              Content of Tab Panel 1
+            </span>
           </div>
         </div>
       </div>
@@ -200,7 +209,16 @@ exports[`renders Tabs/demo/controled.md correctly 1`] = `
             class="arco-typography"
             style="text-align:center;margin-top:20px"
           >
-            Content of Tab Panel 1
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              Content of Tab Panel 1
+            </span>
           </div>
         </div>
       </div>
@@ -493,7 +511,16 @@ exports[`renders Tabs/demo/delete.md correctly 1`] = `
             class="arco-typography"
             style="text-align:center;margin-top:20px"
           >
-            Content of Tab Panel 2
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              Content of Tab Panel 2
+            </span>
           </div>
         </div>
       </div>
@@ -733,7 +760,16 @@ exports[`renders Tabs/demo/extra.md correctly 1`] = `
             class="arco-typography"
             style="text-align:center;margin-top:20px"
           >
-            Content of Tab Panel  1
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              Content of Tab Panel  1
+            </span>
           </div>
         </div>
       </div>
@@ -899,7 +935,16 @@ exports[`renders Tabs/demo/icon.md correctly 1`] = `
             class="arco-typography"
             style="text-align:center;margin-top:20px"
           >
-            Content of Tab Panel 1
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              Content of Tab Panel 1
+            </span>
           </div>
         </div>
       </div>
@@ -1094,7 +1139,16 @@ exports[`renders Tabs/demo/inline.md correctly 1`] = `
                         class="arco-typography"
                         style="text-align:center;margin-top:20px"
                       >
-                        Content of Tab Panel 1
+                        <span
+                          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                        >
+                          hxj
+                        </span>
+                        <span
+                          style="width:0"
+                        >
+                          Content of Tab Panel 1
+                        </span>
                       </div>
                     </div>
                   </div>
@@ -1291,7 +1345,16 @@ exports[`renders Tabs/demo/position.md correctly 1`] = `
               class="arco-typography"
               style="text-align:center;margin-top:20px"
             >
-              Content of Tab Panel  1
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                Content of Tab Panel  1
+              </span>
             </div>
           </div>
         </div>
@@ -1425,7 +1488,16 @@ exports[`renders Tabs/demo/renderTabbar.md correctly 1`] = `
               class="arco-typography"
               style="text-align:center;margin-top:20px"
             >
-              Content of Tab Panel  3
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                Content of Tab Panel  3
+              </span>
             </div>
           </div>
         </div>
@@ -3329,7 +3401,16 @@ exports[`renders Tabs/demo/size.md correctly 1`] = `
               class="arco-typography"
               style="text-align:center;margin-top:20px"
             >
-              Content of Tab Panel 1
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                Content of Tab Panel 1
+              </span>
             </div>
           </div>
         </div>
@@ -3598,7 +3679,16 @@ exports[`renders Tabs/demo/type.md correctly 1`] = `
               class="arco-typography"
               style="text-align:center;margin-top:20px"
             >
-              Content of Tab Panel 1
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                Content of Tab Panel 1
+              </span>
             </div>
           </div>
         </div>

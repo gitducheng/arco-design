@@ -2082,12 +2082,21 @@ exports[`renders Form/demo/custom.md correctly 1`] = `
   <div
     class="arco-typography"
   >
-    <p>
-      Form Data:
-    </p>
-    <pre>
-      {}
-    </pre>
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      <p>
+        Form Data:
+      </p>
+      <pre>
+        {}
+      </pre>
+    </span>
   </div>
 </div>
 `;
@@ -4061,7 +4070,16 @@ exports[`renders Form/demo/form-provider.md correctly 1`] = `
       style="font-size:18px"
     >
       <b>
-        Result
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          Result
+        </span>
       </b>
     </span>
     <form
@@ -7859,7 +7877,16 @@ exports[`renders Form/demo/useWatch.md correctly 1`] = `
                 class="arco-typography"
               >
                 <code>
-                  Name: ; Age: 
+                  <span
+                    style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                  >
+                    hxj
+                  </span>
+                  <span
+                    style="width:0"
+                  >
+                    Name: ; Age: 
+                  </span>
                 </code>
               </span>
             </div>

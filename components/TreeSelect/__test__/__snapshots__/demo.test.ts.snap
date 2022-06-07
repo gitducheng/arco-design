@@ -1045,11 +1045,20 @@ exports[`renders TreeSelect/demo/self-input.md correctly 1`] = `
   class="arco-typography"
   style="width:300px"
 >
-  You selected: 
   <span
-    class="arco-link"
+    style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
   >
-    node1
+    hxj
+  </span>
+  <span
+    style="width:0"
+  >
+    You selected: 
+    <span
+      class="arco-link"
+    >
+      node1
+    </span>
   </span>
 </div>
 `;

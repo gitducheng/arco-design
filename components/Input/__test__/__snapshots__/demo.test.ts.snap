@@ -1321,7 +1321,16 @@ exports[`renders Input/demo/size.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    Custom height
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Custom height
+    </span>
   </span>
   <div
     class="arco-slider"

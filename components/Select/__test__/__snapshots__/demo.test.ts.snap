@@ -543,11 +543,20 @@ exports[`renders Select/demo/custom-trigger.md correctly 1`] = `
     style="width:345px"
     tabindex="0"
   >
-    Favorite Cities：
     <span
-      class="arco-link"
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
     >
-      None
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Favorite Cities：
+      <span
+        class="arco-link"
+      >
+        None
+      </span>
     </span>
   </div>
 </div>
@@ -2549,7 +2558,16 @@ Array [
   <h6
     class="arco-typography"
   >
-    10000 items
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      10000 items
+    </span>
   </h6>,
   <div
     aria-autocomplete="list"

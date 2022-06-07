@@ -154,7 +154,16 @@ exports[`renders Radio/demo/custom_render.md correctly 1`] = `
             <span
               class="arco-typography arco-typography-secondary"
             >
-              this is a text
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                this is a text
+              </span>
             </span>
           </div>
         </div>
@@ -194,7 +203,16 @@ exports[`renders Radio/demo/custom_render.md correctly 1`] = `
             <span
               class="arco-typography arco-typography-secondary"
             >
-              this is a text
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                this is a text
+              </span>
             </span>
           </div>
         </div>

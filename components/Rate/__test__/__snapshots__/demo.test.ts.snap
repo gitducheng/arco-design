@@ -247,7 +247,16 @@ Array [
       class="arco-typography"
       style="margin-left:16px"
     >
-      allowClear: true
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        allowClear: true
+      </span>
     </span>
   </div>,
   <div
@@ -495,7 +504,16 @@ Array [
       class="arco-typography"
       style="margin-left:16px"
     >
-      allowClear: false
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        allowClear: false
+      </span>
     </span>
   </div>,
 ]
@@ -3278,7 +3296,16 @@ exports[`renders Rate/demo/with-description.md correctly 1`] = `
     class="arco-typography"
     style="margin-left:16px"
   >
-    Excellent
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Excellent
+    </span>
   </span>
 </div>
 `;

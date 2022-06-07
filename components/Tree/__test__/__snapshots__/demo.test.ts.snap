@@ -1285,7 +1285,16 @@ exports[`renders Tree/demo/checkedStrategy.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      Current: 0-0 , 0-1
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Current: 0-0 , 0-1
+      </span>
     </span>
   </div>
   <div
@@ -4053,7 +4062,16 @@ exports[`renders Tree/demo/line.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      showLine
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        showLine
+      </span>
     </span>
     <button
       aria-checked="true"
@@ -4993,7 +5011,16 @@ exports[`renders Tree/demo/multiple.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    Current: 
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Current: 
+    </span>
   </span>
   <br />
   <div

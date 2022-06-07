@@ -9,7 +9,16 @@ exports[`renders Timeline/demo/basic.md correctly 1`] = `
       class="arco-typography"
       style="vertical-align:middle;margin-right:8px"
     >
-      Reverse
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Reverse
+      </span>
     </span>
     <button
       aria-checked="false"
@@ -142,7 +151,16 @@ exports[`renders Timeline/demo/direction.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      mode:    
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        mode:    
+      </span>
     </span>
     <div
       class="arco-radio-group arco-radio-size-default arco-radio-mode-outline"
@@ -1028,7 +1046,16 @@ exports[`renders Timeline/demo/labelPosition.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      labelPosition:    
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        labelPosition:    
+      </span>
     </span>
     <div
       class="arco-radio-group arco-radio-size-default arco-radio-mode-outline"
@@ -1083,7 +1110,16 @@ exports[`renders Timeline/demo/labelPosition.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      mode:    
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        mode:    
+      </span>
     </span>
     <div
       class="arco-radio-group arco-radio-size-default arco-radio-mode-outline"
@@ -1824,7 +1860,16 @@ exports[`renders Timeline/demo/type.md correctly 1`] = `
             class="arco-typography arco-typography-secondary"
             style="font-size:12px;margin-top:4px"
           >
-            This is a descriptive message
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              This is a descriptive message
+            </span>
           </span>
         </div>
         <div
@@ -1865,7 +1910,16 @@ exports[`renders Timeline/demo/type.md correctly 1`] = `
             class="arco-typography arco-typography-secondary"
             style="font-size:12px;margin-top:4px"
           >
-            This is a descriptive message
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              This is a descriptive message
+            </span>
           </span>
         </div>
         <div
@@ -1906,7 +1960,16 @@ exports[`renders Timeline/demo/type.md correctly 1`] = `
             class="arco-typography arco-typography-secondary"
             style="font-size:12px;margin-top:4px"
           >
-            This is a descriptive message
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+            >
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              This is a descriptive message
+            </span>
           </span>
         </div>
         <div
@@ -1929,7 +1992,16 @@ exports[`renders Timeline/demo/vertical.md correctly 1`] = `
     <span
       class="arco-typography"
     >
-      mode:     
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        mode:     
+      </span>
     </span>
     <div
       class="arco-radio-group arco-radio-size-default arco-radio-mode-outline"

@@ -9,7 +9,16 @@ exports[`renders ResizeBox/demo/basic.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      We are building the future of content discovery and creation.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        We are building the future of content discovery and creation.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal"
@@ -18,7 +27,16 @@ exports[`renders ResizeBox/demo/basic.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      ByteDance's content platforms enable people to enjoy content powered by AI technology. We inform, entertain, and inspire people across language, culture and geography.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        ByteDance's content platforms enable people to enjoy content powered by AI technology. We inform, entertain, and inspire people across language, culture and geography.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal arco-divider-with-text arco-divider-with-text-center"
@@ -33,7 +51,16 @@ exports[`renders ResizeBox/demo/basic.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      Yiming Zhang is the founder and CEO of ByteDance.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Yiming Zhang is the founder and CEO of ByteDance.
+      </span>
     </div>
     <div
       class="arco-resizebox-trigger arco-resizebox-trigger-vertical arco-resizebox-direction-right"
@@ -120,7 +147,16 @@ exports[`renders ResizeBox/demo/control.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      We are building the future of content discovery and creation.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        We are building the future of content discovery and creation.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal"
@@ -129,7 +165,16 @@ exports[`renders ResizeBox/demo/control.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      ByteDance's content platforms enable people to enjoy content powered by AI technology. We inform, entertain, and inspire people across language, culture and geography.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        ByteDance's content platforms enable people to enjoy content powered by AI technology. We inform, entertain, and inspire people across language, culture and geography.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal arco-divider-with-text arco-divider-with-text-center"
@@ -144,7 +189,16 @@ exports[`renders ResizeBox/demo/control.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      Yiming Zhang is the founder and CEO of ByteDance.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Yiming Zhang is the founder and CEO of ByteDance.
+      </span>
     </div>
     <div
       class="arco-resizebox-trigger arco-resizebox-trigger-vertical arco-resizebox-direction-right"
@@ -231,7 +285,16 @@ exports[`renders ResizeBox/demo/custom-triggers.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      We are building the future of content discovery and creation.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        We are building the future of content discovery and creation.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal"
@@ -240,7 +303,16 @@ exports[`renders ResizeBox/demo/custom-triggers.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      ByteDance's content platforms enable people to enjoy content powered by AI technology. We inform, entertain, and inspire people across language, culture and geography.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        ByteDance's content platforms enable people to enjoy content powered by AI technology. We inform, entertain, and inspire people across language, culture and geography.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal arco-divider-with-text arco-divider-with-text-center"
@@ -255,7 +327,16 @@ exports[`renders ResizeBox/demo/custom-triggers.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      Yiming Zhang is the founder and CEO of ByteDance.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Yiming Zhang is the founder and CEO of ByteDance.
+      </span>
     </div>
     <div
       class="arco-resizebox-trigger arco-resizebox-trigger-vertical arco-resizebox-direction-right"
@@ -372,7 +453,16 @@ exports[`renders ResizeBox/demo/nested_split.md correctly 1`] = `
       <div
         class="arco-typography"
       >
-        Right
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          Right
+        </span>
       </div>
     </div>
     <div
@@ -426,7 +516,16 @@ exports[`renders ResizeBox/demo/nested_split.md correctly 1`] = `
             <div
               class="arco-typography"
             >
-              Top
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                Top
+              </span>
             </div>
           </div>
           <div
@@ -471,7 +570,16 @@ exports[`renders ResizeBox/demo/nested_split.md correctly 1`] = `
             <div
               class="arco-typography"
             >
-              Bottom
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                Bottom
+              </span>
             </div>
           </div>
         </div>
@@ -494,7 +602,16 @@ exports[`renders ResizeBox/demo/split.md correctly 1`] = `
       <div
         class="arco-typography"
       >
-        Right
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          Right
+        </span>
       </div>
     </div>
     <div
@@ -539,7 +656,16 @@ exports[`renders ResizeBox/demo/split.md correctly 1`] = `
       <div
         class="arco-typography"
       >
-        Left
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          Left
+        </span>
       </div>
     </div>
   </div>
@@ -567,41 +693,95 @@ exports[`renders ResizeBox/demo/splitGroup.md correctly 1`] = `
           <div
             class="arco-typography"
           >
-            <div
-              class="arco-typography"
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
             >
-              <span
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              <div
                 class="arco-typography"
               >
-                <mark>
-                  pane 0
-                </mark>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  min：0
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  size： 0.2
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  offset：initial
-                </code>
-              </span>
-            </div>
+                <span
+                  style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                >
+                  hxj
+                </span>
+                <span
+                  style="width:0"
+                >
+                  <span
+                    class="arco-typography"
+                  >
+                    <mark>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        pane 0
+                      </span>
+                    </mark>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        min：0
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        size： 0.2
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        offset：initial
+                      </span>
+                    </code>
+                  </span>
+                </span>
+              </div>
+            </span>
           </div>
         </div>
       </div>
@@ -667,41 +847,95 @@ exports[`renders ResizeBox/demo/splitGroup.md correctly 1`] = `
           <div
             class="arco-typography"
           >
-            <div
-              class="arco-typography"
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
             >
-              <span
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              <div
                 class="arco-typography"
               >
-                <mark>
-                  pane 1
-                </mark>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  min：50px
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  size： 0.4
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  offset：initial
-                </code>
-              </span>
-            </div>
+                <span
+                  style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                >
+                  hxj
+                </span>
+                <span
+                  style="width:0"
+                >
+                  <span
+                    class="arco-typography"
+                  >
+                    <mark>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        pane 1
+                      </span>
+                    </mark>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        min：50px
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        size： 0.4
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        offset：initial
+                      </span>
+                    </code>
+                  </span>
+                </span>
+              </div>
+            </span>
           </div>
         </div>
       </div>
@@ -751,41 +985,95 @@ exports[`renders ResizeBox/demo/splitGroup.md correctly 1`] = `
           <div
             class="arco-typography"
           >
-            <div
-              class="arco-typography"
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
             >
-              <span
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              <div
                 class="arco-typography"
               >
-                <mark>
-                  pane 2
-                </mark>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  min：0
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  size： not set
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  offset：initial
-                </code>
-              </span>
-            </div>
+                <span
+                  style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                >
+                  hxj
+                </span>
+                <span
+                  style="width:0"
+                >
+                  <span
+                    class="arco-typography"
+                  >
+                    <mark>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        pane 2
+                      </span>
+                    </mark>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        min：0
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        size： not set
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        offset：initial
+                      </span>
+                    </code>
+                  </span>
+                </span>
+              </div>
+            </span>
           </div>
         </div>
       </div>
@@ -844,41 +1132,95 @@ exports[`renders ResizeBox/demo/splitGroup.md correctly 1`] = `
           <div
             class="arco-typography"
           >
-            <div
-              class="arco-typography"
+            <span
+              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
             >
-              <span
+              hxj
+            </span>
+            <span
+              style="width:0"
+            >
+              <div
                 class="arco-typography"
               >
-                <mark>
-                  pane 3
-                </mark>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  min：0
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  size： not set
-                </code>
-              </span>
-              <br />
-              <span
-                class="arco-typography"
-              >
-                <code>
-                  offset：initial
-                </code>
-              </span>
-            </div>
+                <span
+                  style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                >
+                  hxj
+                </span>
+                <span
+                  style="width:0"
+                >
+                  <span
+                    class="arco-typography"
+                  >
+                    <mark>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        pane 3
+                      </span>
+                    </mark>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        min：0
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        size： not set
+                      </span>
+                    </code>
+                  </span>
+                  <br />
+                  <span
+                    class="arco-typography"
+                  >
+                    <code>
+                      <span
+                        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                      >
+                        hxj
+                      </span>
+                      <span
+                        style="width:0"
+                      >
+                        offset：initial
+                      </span>
+                    </code>
+                  </span>
+                </span>
+              </div>
+            </span>
           </div>
         </div>
       </div>
@@ -938,7 +1280,16 @@ exports[`renders ResizeBox/demo/splitGroup.md correctly 1`] = `
             class="arco-typography"
           >
             <mark>
-              pane 0
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                pane 0
+              </span>
             </mark>
           </span>
         </div>
@@ -1022,7 +1373,16 @@ exports[`renders ResizeBox/demo/splitGroup.md correctly 1`] = `
             class="arco-typography"
           >
             <mark>
-              pane 1
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                pane 1
+              </span>
             </mark>
           </span>
         </div>
@@ -1090,7 +1450,16 @@ exports[`renders ResizeBox/demo/splitGroup.md correctly 1`] = `
             class="arco-typography"
           >
             <mark>
-              pane 2
+              <span
+                style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+              >
+                hxj
+              </span>
+              <span
+                style="width:0"
+              >
+                pane 2
+              </span>
             </mark>
           </span>
         </div>

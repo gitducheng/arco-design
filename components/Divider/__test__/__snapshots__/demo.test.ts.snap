@@ -8,7 +8,16 @@ Array [
     <div
       class="arco-typography"
     >
-      A design is a plan or specification for the construction of an object.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        A design is a plan or specification for the construction of an object.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal"
@@ -17,7 +26,16 @@ Array [
     <div
       class="arco-typography"
     >
-      A design is a plan or specification for the construction of an object.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        A design is a plan or specification for the construction of an object.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal"
@@ -27,7 +45,16 @@ Array [
     <div
       class="arco-typography"
     >
-      A design is a plan or specification for the construction of an object.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        A design is a plan or specification for the construction of an object.
+      </span>
     </div>
     <div
       class="arco-divider arco-divider-horizontal"
@@ -37,7 +64,16 @@ Array [
     <div
       class="arco-typography"
     >
-      A design is a plan or specification for the construction of an object.
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        A design is a plan or specification for the construction of an object.
+      </span>
     </div>
   </div>,
   <div
@@ -70,7 +106,16 @@ Array [
         <h6
           class="arco-typography"
         >
-          Image
+          <span
+            style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+          >
+            hxj
+          </span>
+          <span
+            style="width:0"
+          >
+            Image
+          </span>
         </h6>
         May 4, 2010
       </div>
@@ -110,7 +155,16 @@ Array [
         <h6
           class="arco-typography"
         >
-          Avatar
+          <span
+            style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+          >
+            hxj
+          </span>
+          <span
+            style="width:0"
+          >
+            Avatar
+          </span>
         </h6>
         May 4, 2010
       </div>
@@ -145,7 +199,16 @@ Array [
         <h6
           class="arco-typography"
         >
-          Icon
+          <span
+            style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+          >
+            hxj
+          </span>
+          <span
+            style="width:0"
+          >
+            Icon
+          </span>
         </h6>
         May 4, 2010
       </div>
@@ -161,7 +224,16 @@ exports[`renders Divider/demo/vertical.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    Item 1
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Item 1
+    </span>
   </span>
   <div
     class="arco-divider arco-divider-vertical"
@@ -170,7 +242,16 @@ exports[`renders Divider/demo/vertical.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    Item 2
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Item 2
+    </span>
   </span>
   <div
     class="arco-divider arco-divider-vertical"
@@ -179,7 +260,16 @@ exports[`renders Divider/demo/vertical.md correctly 1`] = `
   <span
     class="arco-typography"
   >
-    Item 3
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      Item 3
+    </span>
   </span>
 </div>
 `;
@@ -191,7 +281,16 @@ exports[`renders Divider/demo/with-text.md correctly 1`] = `
   <div
     class="arco-typography"
   >
-    A design is a plan or specification for the construction of an object.
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      A design is a plan or specification for the construction of an object.
+    </span>
   </div>
   <div
     class="arco-divider arco-divider-horizontal arco-divider-with-text arco-divider-with-text-left"
@@ -206,7 +305,16 @@ exports[`renders Divider/demo/with-text.md correctly 1`] = `
   <div
     class="arco-typography"
   >
-    A design is a plan or specification for the construction of an object.
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      A design is a plan or specification for the construction of an object.
+    </span>
   </div>
   <div
     class="arco-divider arco-divider-horizontal arco-divider-with-text arco-divider-with-text-center"
@@ -221,7 +329,16 @@ exports[`renders Divider/demo/with-text.md correctly 1`] = `
   <div
     class="arco-typography"
   >
-    A design is a plan or specification for the construction of an object.
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      A design is a plan or specification for the construction of an object.
+    </span>
   </div>
   <div
     class="arco-divider arco-divider-horizontal arco-divider-with-text arco-divider-with-text-right"

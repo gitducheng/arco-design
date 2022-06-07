@@ -11,7 +11,16 @@ exports[`renders BackTop/demo/basic.md correctly 1`] = `
   <div
     class="arco-typography"
   >
-    The button will appear in the bottom corner of the scrolling area
+    <span
+      style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+    >
+      hxj
+    </span>
+    <span
+      style="width:0"
+    >
+      The button will appear in the bottom corner of the scrolling area
+    </span>
   </div>
   <div
     id="custom_backtop0"
@@ -20,102 +29,282 @@ exports[`renders BackTop/demo/basic.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
   </div>
 </div>
@@ -136,112 +325,310 @@ exports[`renders BackTop/demo/custom_button.md correctly 1`] = `
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
     <div
       class="arco-typography"
     >
-      This is the content
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        This is the content
+      </span>
     </div>
   </div>
 </div>
@@ -256,7 +643,16 @@ exports[`renders BackTop/demo/easing.md correctly 1`] = `
       class="arco-typography"
       style="margin-right:8px"
     >
-      Easing
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Easing
+      </span>
     </span>
     <div
       aria-autocomplete="list"
@@ -313,7 +709,16 @@ exports[`renders BackTop/demo/easing.md correctly 1`] = `
       class="arco-typography"
       style="margin:0 8px 0 40px"
     >
-      Time
+      <span
+        style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+      >
+        hxj
+      </span>
+      <span
+        style="width:0"
+      >
+        Time
+      </span>
     </span>
     <input
       class="arco-input arco-input-size-default"
@@ -336,92 +741,254 @@ exports[`renders BackTop/demo/easing.md correctly 1`] = `
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
       <div
         class="arco-typography"
       >
-        This is the content
+        <span
+          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+        >
+          hxj
+        </span>
+        <span
+          style="width:0"
+        >
+          This is the content
+        </span>
       </div>
     </div>
   </div>

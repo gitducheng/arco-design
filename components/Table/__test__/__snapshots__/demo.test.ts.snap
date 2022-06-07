@@ -13138,7 +13138,16 @@ exports[`renders Table/demo/summary.md correctly 1`] = `
                         class="arco-typography arco-typography-success"
                       >
                         <b>
-                          114000
+                          <span
+                            style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                          >
+                            hxj
+                          </span>
+                          <span
+                            style="width:0"
+                          >
+                            114000
+                          </span>
                         </b>
                       </span>
                     </td>
@@ -13730,7 +13739,16 @@ exports[`renders Table/demo/summary.md correctly 1`] = `
                       <span
                         class="arco-typography arco-typography-error"
                       >
-                        114000
+                        <span
+                          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                        >
+                          hxj
+                        </span>
+                        <span
+                          style="width:0"
+                        >
+                          114000
+                        </span>
                       </span>
                     </td>
                     <td
@@ -13762,7 +13780,16 @@ exports[`renders Table/demo/summary.md correctly 1`] = `
                       <span
                         class="arco-typography arco-typography-success"
                       >
-                        22800
+                        <span
+                          style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                        >
+                          hxj
+                        </span>
+                        <span
+                          style="width:0"
+                        >
+                          22800
+                        </span>
                       </span>
                     </td>
                     <td
@@ -14263,7 +14290,16 @@ exports[`renders Table/demo/summary.md correctly 1`] = `
                           class="arco-typography arco-typography-success"
                         >
                           <b>
-                            114000
+                            <span
+                              style="display:block;padding:0;margin:0;position:absolute;white-space:nowrap;opacity:0;z-index:-999"
+                            >
+                              hxj
+                            </span>
+                            <span
+                              style="width:0"
+                            >
+                              114000
+                            </span>
                           </b>
                         </span>
                       </td>
