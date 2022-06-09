@@ -3,6 +3,7 @@ import Store from './base/store';
 import { TriggerProps } from '../Trigger';
 import { SelectViewCommonProps } from '../_class/select-view';
 import { NodeProps } from './base/node';
+import { VirtualListProps } from '../_class/VirtualList';
 
 /**
  * @title Cascader
@@ -92,6 +93,24 @@ export interface CascaderProps<T = any>
    * @version 2.31.0
    */
   checkedStrategy?: 'parent' | 'child';
+  /**
+   * @zh 自定义下拉列表类名
+   * @en Custom dropdown list classname
+   * @version 2.35.0
+   */
+  dropdownMenuClassName?: CSSProperties;
+  /**
+   * @zh 菜单列样式
+   * @en dropdown menu column style
+   * @version 2.35.0
+   */
+  dropdownMenuColumnStyle?: CSSProperties;
+  /**
+   * @zh 传递虚拟滚动属性。开启虚拟滚动后，每列级联菜单的会存在默认宽度，可通过 `dropdownMenuColumnStyle` 进行样式调整
+   * @en virtual list props. After virtual scrolling is enabled, there will be a default width for each column of cascading menus, which can be adjusted by `dropdownMenuColumnStyle`
+   * @version 2.35.0
+   */
+  virtualListProps?: Pick<VirtualListProps<any>, 'threshold' | 'isStaticItemHeight'>;
   /**
    * @zh 自定义下拉菜单的展示。
    * @en Customize the popup menu.
@@ -215,12 +234,14 @@ export interface CascaderPanelProps<T> {
   trigger?: 'click';
   prefixCls?: string;
   showEmptyChildren?: boolean;
+  virtualListProps?: CascaderProps<T>['virtualListProps'];
   renderOption?: (option: NodeProps<T>, level: number) => ReactNode;
   onChange?: (value: string[][]) => void;
   loadMore?: (activeValue, level: number) => void;
-  renderEmpty?: (width?: number) => ReactNode;
+  renderEmpty?: (width?: CSSProperties['width']) => ReactNode;
   renderFooter?: (level: number, activeOption: NodeProps<T> | null) => ReactNode;
   onDoubleClickOption?: () => void;
   onEsc?: () => void;
   dropdownColumnRender?: CascaderProps<T>['dropdownColumnRender'];
+  dropdownMenuColumnStyle?: CascaderProps<T>['dropdownMenuColumnStyle'];
 }
